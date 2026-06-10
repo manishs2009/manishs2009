@@ -1,4 +1,4 @@
-## Hi there 👋, i am Manish S
+## Hi there 👋, I am Manish S
 
 <!--
 **manishs2009/manishs2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
